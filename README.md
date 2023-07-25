@@ -1,16 +1,11 @@
-# flutter_application_2
+# Match Drive
 
-A new Flutter project.
+This is a card matching app with Flutter 3.10.6. This app is a simple game. The point of the game is matching cards. When we matched the cards our score increases.
 
-## Getting Started
+## Ss from the project
+Ss 1 <hr>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ss1](https://github.com/yigittanyel/Match-Drive/assets/61347219/90519132-e527-4b01-b050-f3c8185fae8a)
+<br> 
+Ss2 <hr>
+![ss2](https://github.com/yigittanyel/Match-Drive/assets/61347219/d8841fb1-aeb2-4e48-8102-c4b620061ac7)
